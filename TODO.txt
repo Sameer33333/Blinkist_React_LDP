@@ -1,0 +1,2 @@
+Move Images folder to Assets
+Resolve Lint/prettier configuration and run Lint on repo
