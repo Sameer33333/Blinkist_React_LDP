@@ -1,5 +1,5 @@
 import React from "react";
-import CustomButton from "../button/customButton";
+import CustomButton from "../button/CustomButton";
 interface Props {
   btnText?: string;
   isHovered?: boolean;
@@ -17,7 +17,7 @@ const CardButton = (props: Props) => {
     <div>
       <CustomButton
         variant="contained"
-        width="183px"
+        width="284px"
         textColor={textColor}
         backgroundColor={backgroundColor}
         hoverTextColor="white"

@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Tab Panel should match the default snapshot 1`] = `
+<div>
+  <div
+    aria-labelledby="simple-tab-0"
+    id="simple-tabpanel-0"
+    role="tabpanel"
+  >
+    <div
+      class="MuiBox-root css-pxpt32"
+    >
+      <p
+        class="MuiTypography-root MuiTypography-body1 css-ahj2mt-MuiTypography-root"
+      >
+        Hello World
+      </p>
+    </div>
+  </div>
+</div>
+`;

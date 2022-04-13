@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 //import coverImage from "../../../media/coverImage.png";
-import CustomButton from "./customButton";
+import CustomButton from "./CustomButton";
 import AddIcon from "@mui/icons-material/Add";
 import { typographyClasses } from "@mui/material";
 

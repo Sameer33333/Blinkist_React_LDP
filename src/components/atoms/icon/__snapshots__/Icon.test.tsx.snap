@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Icon Atom should match the default snapshot 1`] = `
+<div>
+  <svg
+    aria-hidden="true"
+    class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+    focusable="false"
+  >
+    Vector.svg
+  </svg>
+</div>
+`;

@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ImageAtom should match the default snapshot 1`] = `
+<div>
+  <img
+    alt="Book"
+    height="inherit"
+    src="coverImage.png"
+    style="display: block;"
+    width="inherit"
+  />
+</div>
+`;

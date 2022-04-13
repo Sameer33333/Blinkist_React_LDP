@@ -1,7 +1,7 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 import coverImage from "../../../media/coverImage.png";
-import BookCardButton from "./cardButton";
+import BookCardButton from "./CardButton";
 import AddIcon from "@mui/icons-material/Add";
 
 export default {

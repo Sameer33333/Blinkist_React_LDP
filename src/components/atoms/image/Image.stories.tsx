@@ -3,7 +3,7 @@ import { ComponentStory, ComponentMeta } from "@storybook/react";
 import coverImage from "../../../images/coverImage.png";
 import blinkistHeaderLogo from "../../../images/blinkistLogo.png";
 import ReadingImg from "../../../images/readingImage.png";
-import Image from "./image";
+import Image from "./Image";
 //TODO: configure paths from assets folder for all images
 
 export default {

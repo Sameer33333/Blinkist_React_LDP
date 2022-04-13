@@ -1,0 +1,212 @@
+{
+  "myLibrary": [
+    {
+      "id": 1,
+      "coverImage": "Boss.png",
+      "bookTitle": "Being Boss",
+      "bookAuthor": "Kathleen Shannon and Emily...",
+      "time": "13",
+      "isFinished": false
+    },
+    {
+      "id": 2,
+      "coverImage": "ETE.png",
+      "bookTitle": "Employee to Entrepreneur",
+      "bookAuthor": "Steve Glaveski",
+      "time": "15",
+      "isFinished": false
+    },
+    {
+      "id": 3,
+      "coverImage": "DHTA.png",
+      "bookTitle": "Doesn’t Hurt to Ask",
+      "bookAuthor": "Trey Gowdy",
+      "time": "13",
+      "isFinished": false
+    },
+    {
+      "id": 4,
+      "coverImage": "FOF.png",
+      "bookTitle": "The Fate of Food",
+      "bookAuthor": "Amanda Little",
+      "time": "12",
+      "isFinished": false
+    },
+    {
+      "id": 5,
+      "coverImage": "LOS.png",
+      "bookTitle": "Lives of the Stoics",
+      "bookAuthor": "Ryan Holiday, Stephen Hansel",
+      "time": "12",
+      "isFinished": false
+    },
+    {
+      "id": 6,
+      "coverImage": "LYB.png",
+      "bookTitle": "Loving Your Business",
+      "bookAuthor": "Debbie King",
+      "time": "12",
+      "isFinished": false
+    },
+    {
+      "id": 7,
+      "coverImage": "TLC.png",
+      "bookTitle": "The Lonely Century",
+      "bookAuthor": "Noreena Hertz",
+      "time": "15",
+      "isFinished": false
+    },
+    {
+      "id": 8,
+      "coverImage": "EBFB.png",
+      "bookTitle": "Eat Better, Feel Better",
+      "bookAuthor": "Giada De Laurentiis",
+      "time": "13",
+      "isFinished": false
+    },
+    {
+      "id": 9,
+      "coverImage": "DropShipping.png",
+      "bookTitle": "Dropshipping",
+      "bookAuthor": "James Moore",
+      "time": "12",
+      "isFinished": false
+    },
+    {
+      "coverImage": "Entrepreneurship.png",
+      "bookTitle": "Beyond Entrepreneurship",
+      "bookAuthor": "Jim Collins & Bill Lazier",
+      "time": "13",
+      "isFinished": true,
+      "id": 10
+    },
+    {
+      "coverImage": "Entrepreneurship.png",
+      "bookTitle": "Beyond Entrepreneurship",
+      "bookAuthor": "Jim Collins & Bill Lazier",
+      "time": "13",
+      "isFinished": true,
+      "id": 11
+    },
+    {
+      "id": 12,
+      "coverImage": "LYB.png",
+      "bookTitle": "Loving Your Business",
+      "bookAuthor": "Debbie King",
+      "time": "12",
+      "isFinished": false
+    },
+    {
+      "id": 13,
+      "coverImage": "LYB.png",
+      "bookTitle": "Loving Your Business",
+      "bookAuthor": "Debbie King",
+      "time": "12",
+      "isFinished": false
+    }
+  ],
+  "trendingBlinkz": [
+    {
+      "id": 1,
+      "coverImage": "Boss.png",
+      "bookTitle": "Being Boss",
+      "bookAuthor": "Kathleen Shannon and Emily...",
+      "time": "13"
+    },
+    {
+      "id": 2,
+      "coverImage": "Entrepreneurship.png",
+      "bookTitle": "Beyond Entrepreneurship",
+      "bookAuthor": "Jim Collins & Bill Lazier",
+      "time": "13"
+    },
+    {
+      "id": 3,
+      "coverImage": "FOF.png",
+      "bookTitle": "The Fate of Food",
+      "bookAuthor": "Amanda Little",
+      "time": "12"
+    },
+    {
+      "id": 4,
+      "coverImage": "LOS.png",
+      "bookTitle": "Lives of the Stoics",
+      "bookAuthor": "Ryan Holiday, Stephen Hansel",
+      "time": "12"
+    },
+    {
+      "id": 5,
+      "coverImage": "LYB.png",
+      "bookTitle": "Loving Your Business",
+      "bookAuthor": "Debbie King",
+      "time": "12"
+    },
+    {
+      "id": 6,
+      "coverImage": "ETE.png",
+      "bookTitle": "Employee to Entrepreneur",
+      "bookAuthor": "Steve Glaveski",
+      "time": "15"
+    },
+    {
+      "id": 7,
+      "coverImage": "Boss.png",
+      "bookTitle": "Being Boss",
+      "bookAuthor": "Kathleen Shannon and Emily...",
+      "time": "13"
+    },
+    {
+      "id": 8,
+      "coverImage": "Boss.png",
+      "bookTitle": "Being Boss",
+      "bookAuthor": "Kathleen Shannon and Emily...",
+      "time": "13"
+    }
+  ],
+  "justAdded": [
+    {
+      "id": 1,
+      "coverImage": "TLC.png",
+      "bookTitle": "The Lonely Century",
+      "bookAuthor": "Noreena Hertz",
+      "time": "15"
+    },
+    {
+      "id": 2,
+      "coverImage": "EBFB.png",
+      "bookTitle": "Eat Better, Feel Better",
+      "bookAuthor": "Giada De Laurentiis",
+      "time": "13"
+    },
+    {
+      "id": 3,
+      "coverImage": "DropShipping.png",
+      "bookTitle": "Dropshipping",
+      "bookAuthor": "James Moore",
+      "time": "12"
+    }
+  ],
+  "audioBlinkz": [
+    {
+      "id": 1,
+      "coverImage": "DHTA.png",
+      "bookTitle": "Doesn’t Hurt to Ask",
+      "bookAuthor": "Trey Gowdy",
+      "time": "13"
+    },
+    {
+      "id": 2,
+      "coverImage": "Entrepreneurship.png",
+      "bookTitle": "Beyond Entrepreneurship",
+      "bookAuthor": "Jim Collins & Bill Lazier",
+      "time": "13"
+    },
+    {
+      "id": 3,
+      "coverImage": "Boss.png",
+      "bookTitle": "Being Boss",
+      "bookAuthor": "Kathleen Shannon and Emily...",
+      "time": "13"
+    }
+  ]
+}
