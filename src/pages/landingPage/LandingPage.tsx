@@ -3,18 +3,7 @@ import React, { useEffect, useState } from "react";
 import Footer from "../../components/organisms/footer/Footer";
 import HeaderWithBackDrop from "../../components/organisms/headerWithBackDrop/HeaderWithBackDrop";
 import TabLayout from "../../components/organisms/tabLayout/TabLayout";
-import BBCoverImage from "../../../images/cover_image/Boss.png";
-import ETECoverImage from "../../../images/cover_image/ETE.png";
-import DHTACoverImage from "../../../images/cover_image/DHTA.png";
-import FOFCoverImage from "../../../images/cover_image/FOF.png";
-import LOSCoverImage from "../../../images/cover_image/LOS.png";
-import LYBCoverImage from "../../../images/cover_image/LYB.png";
-import TLCCoverImage from "../../../images/cover_image/TLC.png";
-import EBFBCoverImage from "../../../images/cover_image/EBFB.png";
-import DropshippingCoverImage from "../../../images/cover_image/DropShipping.png";
-import EntrepreneurshipCI from "../../../images/cover_image/Entrepreneurship.png";
 import { BookData } from "../../components/organisms/tabLayout/TabLayout";
-import { useAuth0 } from "@auth0/auth0-react";
 import { useNavigate } from "react-router-dom";
 
 const LandingPage = () => {

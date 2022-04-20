@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing ImageAtom should match the Avatar with initial Snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-1srz2ck"
+    >
+      <div>
+        <div
+          class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-30mkw0-MuiAvatar-root"
+        >
+          S
+        </div>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-198kmue-MuiSvgIcon-root"
+        focusable="false"
+      >
+        expandMore.svg
+      </svg>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing ImageAtom should match the default snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-1srz2ck"
+    >
+      <div>
+        <div
+          class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-30mkw0-MuiAvatar-root"
+        >
+          S
+        </div>
+      </div>
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-198kmue-MuiSvgIcon-root"
+        focusable="false"
+      >
+        expandMore.svg
+      </svg>
+    </div>
+  </div>
+</div>
+`;

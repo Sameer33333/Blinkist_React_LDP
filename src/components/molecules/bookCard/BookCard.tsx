@@ -33,7 +33,7 @@ function BookCard(props: Props) {
     <div>
       <Card
         sx={{
-          width: "284px",
+          width: "19.7vw",
           backgroundColor: "secondary_100.main",
           borderRadius: "8px",
           pb: !isButtoned ? 4 : 0,

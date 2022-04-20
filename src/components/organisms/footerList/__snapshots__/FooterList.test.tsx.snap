@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Footer List should match the Footer List snapshot 1`] = `
+<div>
+  <div>
+    <ul
+      class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+    >
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-1cka7m9-MuiTypography-root"
+        >
+          Editorial
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+        >
+          Book lists
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+        >
+          What is Nonfiction?
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+        >
+          What to read next?
+        </p>
+      </li>
+      <li
+        class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+      >
+        <p
+          class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+        >
+          Benefits of reading
+        </p>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

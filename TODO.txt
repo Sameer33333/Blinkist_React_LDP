@@ -1,3 +1,4 @@
 Move Images folder to Assets
 Resolve Lint/prettier configuration and run Lint on repo
 Component files should start with Caps-Done
+spacing issue-done

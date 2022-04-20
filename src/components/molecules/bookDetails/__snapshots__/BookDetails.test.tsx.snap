@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Book Details Molecule should match the buttoned snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-9r861l"
+    >
+      <div
+        class="MuiBox-root css-3jmp7d"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+        >
+          Beyond Entrepreneurship
+        </h6>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+        >
+          Jim Collins & Bill Lazier
+        </p>
+        <div>
+          <div
+            class="MuiBox-root css-5as2nd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+              focusable="false"
+            >
+              clockIcon.svg
+            </svg>
+            <span
+              class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+            >
+              13
+              -minute read
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-eb3voy"
+        />
+      </div>
+      <div>
+        <button
+          class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Testing Book Details Molecule should match the unButtoned BookDetails snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-9r861l"
+    >
+      <div
+        class="MuiBox-root css-3jmp7d"
+      >
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+        >
+          Beyond Entrepreneurship
+        </h6>
+        <p
+          class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+        >
+          Jim Collins & Bill Lazier
+        </p>
+        <div>
+          <div
+            class="MuiBox-root css-5as2nd"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+              focusable="false"
+            >
+              clockIcon.svg
+            </svg>
+            <span
+              class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+            >
+              13
+              -minute read
+            </span>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-eb3voy"
+        >
+          <svg
+            aria-hidden="true"
+            class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-r43foo-MuiSvgIcon-root"
+            focusable="false"
+          >
+            horizontalMenu.svg
+          </svg>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

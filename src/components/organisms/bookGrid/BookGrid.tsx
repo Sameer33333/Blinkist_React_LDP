@@ -26,7 +26,7 @@ function BookGrid(props: Props) {
     }
 
     return (
-      <Grid item xs={4} display="flex" justifyContent="center">
+      <Grid item> 
         <BookCard
           key={book.id}
           coverImage= {`${process.env.PUBLIC_URL}/assets/cover_image/${book.coverImage}`}
@@ -44,7 +44,7 @@ function BookGrid(props: Props) {
 
   return (
     <div>
-      <Grid container columnSpacing={"25px"} rowGap={4}>
+      <Grid container columnSpacing={"6.56vw"} rowGap={4}>
         {booksGridItems}
       </Grid>
     </div>

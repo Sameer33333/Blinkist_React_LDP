@@ -1,0 +1,439 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Explore Menu should match the Explore Menu snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-1o8kjj3-MuiPaper-root"
+  >
+    <div
+      class="MuiBox-root css-gg4vpm"
+    >
+      <span
+        class="MuiTypography-root MuiTypography-subtitle3 css-cu8pq9-MuiTypography-root"
+      >
+        Explore by category
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-subtitle3 css-1svm2tk-MuiTypography-root"
+      >
+        See recently added titles
+      </span>
+      <span
+        class="MuiTypography-root MuiTypography-subtitle3 css-1svm2tk-MuiTypography-root"
+      >
+        See popular titles
+      </span>
+    </div>
+    <hr
+      class="MuiDivider-root MuiDivider-fullWidth css-ctpjxq-MuiDivider-root"
+    />
+    <ul
+      class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+      role="menu"
+      tabindex="-1"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-container css-jno0xv-MuiGrid-root"
+        tabindex="0"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Vector.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Entrepreneurship
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Politics.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Politics
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Marketing Sales.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Marketing & Sales
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Science.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Science
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Health Nutrition.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Health & Nutrition
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Personal Development.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Personal Development
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Economics.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Economics
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                History.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                History
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Communication Skills.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Communication Skills
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Corporate Culture.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                CorporateCulture
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Motivation Inspiration.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Motivation & Inspiration
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Money Investments.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Money & Investments
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Psychology.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Psychology
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Productivity.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Productivity
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                SexRelationship.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Sex & Relationship
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Nature Environment.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Nature & Environment
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                CareerSuccess.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Career & Success
+              </p>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4 css-gj1fbr-MuiGrid-root"
+        >
+          <div>
+            <div
+              class="MuiBox-root css-ccqql9"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+                focusable="false"
+              >
+                Education.svg
+              </svg>
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+              >
+                Education
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </ul>
+  </div>
+</div>
+`;

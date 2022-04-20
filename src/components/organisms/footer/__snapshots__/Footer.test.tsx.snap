@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Footer should match the Footer snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-1hvgpz9-MuiPaper-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-6dzwqk-MuiGrid-root"
+      >
+        <img
+          alt="Book"
+          height="24px"
+          src="blinkistLogo.png"
+          style="display: block;"
+          width="100px"
+        />
+        <h6
+          class="MuiTypography-root MuiTypography-subtitle1 css-1e76e2v-MuiTypography-root"
+        >
+          Big ideas in small packages Start learning now
+        </h6>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2 css-1h3qeln-MuiGrid-root"
+      >
+        <div>
+          <ul
+            class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-1cka7m9-MuiTypography-root"
+              >
+                Editorial
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Book lists
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                What is Nonfiction?
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                What to read next?
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Benefits of reading
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2 css-1h3qeln-MuiGrid-root"
+      >
+        <div>
+          <ul
+            class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-1cka7m9-MuiTypography-root"
+              >
+                Useful links
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Pricing
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Blinkist business
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Gift cards
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Blinkist magaine
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Contact & help
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-2 css-1h3qeln-MuiGrid-root"
+      >
+        <div>
+          <ul
+            class="MuiList-root MuiList-padding css-h4y409-MuiList-root"
+          >
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body1 css-1cka7m9-MuiTypography-root"
+              >
+                Company
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                About
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Careers
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                partners
+              </p>
+            </li>
+            <li
+              class="MuiListItem-root MuiListItem-gutters MuiListItem-padding css-1p823my-MuiListItem-root"
+            >
+              <p
+                class="MuiTypography-root MuiTypography-body2 css-1pjftnz-MuiTypography-root"
+              >
+                Code of Conduct
+              </p>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <span
+      class="MuiTypography-root MuiTypography-caption1 css-1svm2tk-MuiTypography-root"
+    >
+      © Blinkist 2021 Sitemap | Imprint | Terms of Service | Privacy Policies
+    </span>
+  </div>
+</div>
+`;

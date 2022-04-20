@@ -103,6 +103,14 @@
       "bookAuthor": "Debbie King",
       "time": "12",
       "isFinished": false
+    },
+    {
+      "coverImage": "Entrepreneurship.png",
+      "bookTitle": "Beyond Entrepreneurship",
+      "bookAuthor": "Jim Collins & Bill Lazier",
+      "time": "13",
+      "isFinished": true,
+      "id": 14
     }
   ],
   "trendingBlinkz": [

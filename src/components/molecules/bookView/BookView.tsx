@@ -55,7 +55,7 @@ const BookView = (props: BookProps) => {
             sx={{
               mr: 6,
             }}
-            //onClick={() => onClick()}
+            onClick={() => onClick()}
           >
             Finished Reading
           </ButtonAtom>

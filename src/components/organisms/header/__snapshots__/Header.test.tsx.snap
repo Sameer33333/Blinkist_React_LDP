@@ -1,0 +1,97 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Header should match the Header snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-1ggpog0"
+    >
+      <div
+        class="MuiBox-root css-70qvj9"
+      >
+        <img
+          alt="Book"
+          height="26px"
+          src="blinkistLogo.png"
+          style="display: block;"
+          width="124px"
+        />
+        <div>
+          <button
+            aria-label="search button"
+            class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-1ig5hch-MuiButtonBase-root-MuiIconButton-root"
+            tabindex="0"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+              focusable="false"
+            >
+              searchIcon.svg
+            </svg>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-q987oy-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          Explore
+          <span
+            class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-hpr88x-MuiSvgIcon-root"
+              focusable="false"
+            >
+              expandMore.svg
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+        <button
+          class="MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root  css-72xl0z-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="button"
+        >
+          My Library
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <div
+        class="MuiBox-root css-70qvj9"
+      >
+        <div>
+          <div
+            class="MuiBox-root css-1srz2ck"
+          >
+            <div>
+              <div
+                class="MuiAvatar-root MuiAvatar-circular MuiAvatar-colorDefault css-30mkw0-MuiAvatar-root"
+              >
+                S
+              </div>
+            </div>
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-198kmue-MuiSvgIcon-root"
+              focusable="false"
+            >
+              expandMore.svg
+            </svg>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

@@ -17,7 +17,7 @@ const CardButton = (props: Props) => {
     <div>
       <CustomButton
         variant="contained"
-        width="284px"
+        width="100%"
         textColor={textColor}
         backgroundColor={backgroundColor}
         hoverTextColor="white"

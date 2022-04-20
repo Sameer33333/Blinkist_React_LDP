@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Footer List should match the Time Left snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-70qvj9"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+        focusable="false"
+      >
+        clockIcon.svg
+      </svg>
+      <span
+        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+      >
+        13
+        -minute read
+      </span>
+    </div>
+  </div>
+</div>
+`;

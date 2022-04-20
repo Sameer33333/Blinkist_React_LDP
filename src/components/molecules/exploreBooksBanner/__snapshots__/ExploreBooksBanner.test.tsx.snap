@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Explore Banner should match the Explore Banner snapshot 1`] = `
+<div>
+  <div
+    class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 css-ulgjkv-MuiPaper-root"
+  >
+    <div
+      class="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-17vwnak-MuiGrid-root"
+      >
+        <div
+          class="MuiGrid-root MuiGrid-container css-sv021s-MuiGrid-root"
+        >
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 css-13shxg4-MuiGrid-root"
+          >
+            <span
+              class="MuiTypography-root MuiTypography-heading css-g6ah8q-MuiTypography-root"
+            >
+              Explore Books on entrepreneurship
+            </span>
+          </div>
+          <div
+            class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-12 css-13shxg4-MuiGrid-root"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-1gwt0ci-MuiTypography-root"
+            >
+              Everything you need to know about thriving on a shoestring
+budget, making your first million, and hiring right from the
+start.
+            </h6>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item MuiGrid-grid-sm-6 css-fxm7ij-MuiGrid-root"
+      >
+        <img
+          alt="Book"
+          height="inherit"
+          src="readingImage.png"
+          style="display: block;"
+          width="inherit"
+        />
+      </div>
+    </div>
+  </div>
+</div>
+`;

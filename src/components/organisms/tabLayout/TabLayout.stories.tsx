@@ -1,16 +1,16 @@
 import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 import TabLayout from "../../organisms/tabLayout/TabLayout";
-import BBCoverImage from "../../../media/cover_image/Boss.png";
-import ETECoverImage from "../../../media/cover_image/ETE.png";
-import DHTACoverImage from "../../../media/cover_image/DHTA.png";
-import FOFCoverImage from "../../../media/cover_image/FOF.png";
-import LOSCoverImage from "../../../media/cover_image/LOS.png";
-import LYBCoverImage from "../../../media/cover_image/LYB.png";
-import TLCCoverImage from "../../../media/cover_image/TLC.png";
-import EBFBCoverImage from "../../../media/cover_image/EBFB.png";
-import DropshippingCoverImage from "../../../media/cover_image/DropShipping.png";
-import EntrepreneurshipCI from "../../../media/cover_image/Entrepreneurship.png";
+import BBCoverImage from "../../../images/cover_image/Boss.png";
+import ETECoverImage from "../../../images/cover_image/ETE.png";
+import DHTACoverImage from "../../../images/cover_image/DHTA.png";
+import FOFCoverImage from "../../../images/cover_image/FOF.png";
+import LOSCoverImage from "../../../images/cover_image/LOS.png";
+import LYBCoverImage from "../../../images/cover_image/LYB.png";
+import TLCCoverImage from "../../../images/cover_image/TLC.png";
+import EBFBCoverImage from "../../../images/cover_image/EBFB.png";
+import DropshippingCoverImage from "../../../images/cover_image/DropShipping.png";
+import EntrepreneurshipCI from "../../../images/cover_image/Entrepreneurship.png";
 
 export default {
   title: "organisms/Tab Layout",

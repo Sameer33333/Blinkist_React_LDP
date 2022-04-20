@@ -1,0 +1,732 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Book Grid should match the Book Grid snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiGrid-root MuiGrid-container css-vbsqzr-MuiGrid-root"
+    >
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/Boss.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Being Boss
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Kathleen Shannon and Emily...
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        13
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/ETE.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Employee to Entrepreneur
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Steve Glaveski
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        15
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/DHTA.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Doesn’t Hurt to Ask
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Trey Gowdy
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        13
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/FOF.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    The Fate of Food
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Amanda Little
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        12
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/LOS.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Lives of the Stoics
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Ryan Holiday, Stephen Hansel
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        12
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/LYB.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Loving Your Business
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Debbie King
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        12
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/TLC.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    The Lonely Century
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Noreena Hertz
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        15
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/EBFB.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Eat Better, Feel Better
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Giada De Laurentiis
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        13
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/DropShipping.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Dropshipping
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    James Moore
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        12
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Finish Reading
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiGrid-root MuiGrid-item css-13i4rnv-MuiGrid-root"
+      >
+        <div>
+          <div
+            class="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 MuiCard-root css-vlde2p-MuiPaper-root-MuiCard-root"
+            data-testid="Card"
+          >
+            <img
+              alt="Book"
+              height="100%"
+              src="/assets/cover_image/Entrepreneurship.png"
+              style="display: block;"
+              width="100%"
+            />
+            <div>
+              <div
+                class="MuiBox-root css-9r861l"
+              >
+                <div
+                  class="MuiBox-root css-3jmp7d"
+                >
+                  <h6
+                    class="MuiTypography-root MuiTypography-subtitle2 css-i5c7wg-MuiTypography-root"
+                  >
+                    Beyond Entrepreneurship
+                  </h6>
+                  <p
+                    class="MuiTypography-root MuiTypography-body1 css-hi830k-MuiTypography-root"
+                  >
+                    Jim Collins & Bill Lazier
+                  </p>
+                  <div>
+                    <div
+                      class="MuiBox-root css-5as2nd"
+                    >
+                      <svg
+                        aria-hidden="true"
+                        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-2v1qra-MuiSvgIcon-root"
+                        focusable="false"
+                      >
+                        clockIcon.svg
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-caption3 css-op2c4e-MuiTypography-root"
+                      >
+                        13
+                        -minute read
+                      </span>
+                    </div>
+                  </div>
+                  <div
+                    class="MuiBox-root css-eb3voy"
+                  />
+                </div>
+                <div>
+                  <button
+                    class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    Read Again
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

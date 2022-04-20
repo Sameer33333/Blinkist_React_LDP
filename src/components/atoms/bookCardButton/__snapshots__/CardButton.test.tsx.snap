@@ -4,7 +4,7 @@ exports[`Testing Book Card Button should match the default snapshot 1`] = `
 <div>
   <div>
     <button
-      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-40rqoe-MuiButtonBase-root-MuiButton-root"
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-jbktht-MuiButtonBase-root-MuiButton-root"
       tabindex="0"
       type="button"
     >
@@ -21,7 +21,7 @@ exports[`Testing Book Card Button should match the dhover snapshot 1`] = `
 <div>
   <div>
     <button
-      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-k6jnhi-MuiButtonBase-root-MuiButton-root"
+      class="MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButtonBase-root  css-47f4e9-MuiButtonBase-root-MuiButton-root"
       tabindex="0"
       type="button"
     >

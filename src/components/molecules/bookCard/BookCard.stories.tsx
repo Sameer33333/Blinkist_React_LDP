@@ -3,7 +3,7 @@ import React from "react";
 import { ComponentStory, ComponentMeta } from "@storybook/react";
 
 import coverImage from "../../../images/coverImage.png";
-import EBFBCoverImage from "../../../../public/assets/cover_image/EBFB.png"
+import EBFBCoverImage from "../../../images/cover_image/EBFB.png"
 import AddIcon from "@mui/icons-material/Add";
 
 import BookCard from "./BookCard";

@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Explore Banner should match the Explore Banner snapshot 1`] = `
+<div>
+  <div>
+    <div
+      class="MuiBox-root css-ccqql9"
+    >
+      <svg
+        aria-hidden="true"
+        class="MuiSvgIcon-root MuiSvgIcon-fontSizeMedium css-lw6gi8-MuiSvgIcon-root"
+        focusable="false"
+      >
+        Vector.svg
+      </svg>
+      <p
+        class="MuiTypography-root MuiTypography-body2 css-1ss91ko-MuiTypography-root"
+      >
+        Entrepreneurship
+      </p>
+    </div>
+  </div>
+</div>
+`;

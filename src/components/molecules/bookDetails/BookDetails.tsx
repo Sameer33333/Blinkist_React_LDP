@@ -33,7 +33,7 @@ function BookDetails(props: Props) {
           display: "flex",
           flexDirection: "column",
           flexWrap: "wrap",
-          width: "284px",
+          width: "99%",
           mx: "auto",
           borderLeft: 1,
           borderRight: 1,
